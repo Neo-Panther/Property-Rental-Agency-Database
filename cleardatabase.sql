@@ -1,0 +1,15 @@
+drop trigger RentHistoryUpdate;
+drop procedure FinishTenantPeriod;
+drop procedure AddNewTenant;
+drop procedure SearchPropertyForRent;
+drop procedure GetPropertyRecordwithPID;
+drop procedure GetRentHistory;
+drop procedure GetTenantDetails;
+drop procedure GetPropertyRecords;
+drop procedure InsertPropertyRecord;
+drop procedure CreateNewUser;
+drop table rent_history;
+drop table rent;
+drop table user_phone;
+drop table property;
+drop table users;
